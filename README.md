@@ -40,5 +40,3 @@ React (useState, useMemo, useCallback)
 Custom SVG charts (no chart libraries)
 Pure CSS styling
 Zero external dependencies
-📄 License
-MIT — free to use, modify, and share.
